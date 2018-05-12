@@ -1,0 +1,33 @@
+_repo: Privateering-and-Piracy-in-the-Colonial-PeriodIllustrative-Documents_24882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Jameson, J. Franklin (John Franklin)
+    alias: Jameson, John Franklin
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '826'
+    url: http://www.gutenberg.org/2009/agents/826
+    wikipedia: http://en.wikipedia.org/wiki/J._Franklin_Jameson
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2008-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates'
+- !lcsh 'Privateering'
+- !lcc 'E186'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775 -- Sources'
+title: 'Privateering and Piracy in the Colonial Period
+
+  Illustrative Documents'
+url: http://www.gutenberg.org/ebooks/24882
