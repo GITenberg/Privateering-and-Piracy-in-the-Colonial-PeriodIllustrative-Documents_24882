@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/826
     wikipedia: http://en.wikipedia.org/wiki/J._Franklin_Jameson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24882#Privateering-and-Piracy-in-the-Colonial-PeriodIllustrative-Documents
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2008-03-20'
 gutenberg_type: Text
